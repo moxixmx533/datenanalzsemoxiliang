@@ -1,4 +1,15 @@
 # team-Project-data-analysis-
+reine Daten: die nur fünf Hauptprozesse: Leeren, Ablassen, Bohren, Verrohrung eindrehen, Ziehen beschreiben.
+
+
+In der File "originale Maschinendaten mit Zuordnung der Aktivitätsdaten": 
+Die ipynb-Datei: input----originale Maschinendaten für einen Tag            output-------reine Maschinendaten für einen Tag
+Die "alle Daten.xls" Datei beschreiben alle Prozesse.(z.b Betonieren, Pause, Verrohrung abnehmen....)
+Die "gefilterte Daten.xls" Datei entsprechen die mit dem moving-mean Verfahren erstellte Daten, die auch alle Prozesse beschreiben.
+
+In der File "gefilterte und reine Maschinendaten für Bohrlochaushubprozess":
+Die "reine Daten mit filter.xls " Datei entsprechen die  mit dem moving-mean Verfahren erstellte Daten, die nur fünf Hauptprozesse beschreiben. Diese Daten wollen wir weiter zu Ausreißer-Detektion und Mustererkennung anwenden. 
+
 
 Es gibt insgesamt 16 Excel-Datei, die zur Datenanalyse verwendet werden können.
 Über der Datenvorverarbeitung werden folgende Schritte durchgeführt:
